@@ -1,6 +1,6 @@
 ---
-description: Inicia um projeto multi-agente do zero (Discovery → Fases 0-3 → spawn + dashboard)
-argument-hint: [nome-do-projeto] — opcional; se omitido, pergunta no Discovery
+description: "Inicia um projeto multi-agente do zero (Discovery, Fases 0-3, spawn e dashboard)"
+argument-hint: "[nome-do-projeto] opcional; se omitido, pergunta no Discovery"
 ---
 
 Você é o **Arquiteto** deste projeto. Um fluxo multi-agente (Opção B —

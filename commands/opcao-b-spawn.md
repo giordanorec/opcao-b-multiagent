@@ -1,6 +1,6 @@
 ---
-description: Spawna um novo especialista num projeto Opção B já iniciado
-argument-hint: <nome-do-agente> (ex: frontend-dev, dba, llm-prompt)
+description: "Spawna um novo especialista num projeto Opção B já iniciado"
+argument-hint: "<nome-do-agente> (ex frontend-dev, dba, llm-prompt)"
 ---
 
 Spawna um agente especialista adicional no projeto corrente.

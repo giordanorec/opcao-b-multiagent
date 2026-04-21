@@ -1,6 +1,6 @@
 ---
-description: Abre (ou reabre) o dashboard tmux do projeto Opção B
-argument-hint: [--rebuild] — força destruir e recriar a sessão tmux
+description: "Abre (ou reabre) o dashboard tmux do projeto Opção B"
+argument-hint: "[--rebuild] força destruir e recriar a sessão tmux"
 ---
 
 Abre o dashboard tmux com um painel por agente, mostrando o log ao vivo
