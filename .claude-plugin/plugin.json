@@ -1,0 +1,22 @@
+{
+  "name": "opcao-b-multiagent",
+  "version": "0.1.0",
+  "description": "Fluxo multi-agente com sessões persistentes (Opção B) — Arquiteto + especialistas file-based, dashboard tmux ao vivo, stream-json parseado em tempo real com emoji + cor + diff visual. Bootstraps um projeto inteiro com Discovery, specs/reports, memória persistente e publica num repo GitHub privado.",
+  "homepage": "https://github.com/giordanorec/opcao-b-multiagent",
+  "repository": "https://github.com/giordanorec/opcao-b-multiagent",
+  "author": {
+    "name": "Giordano Rec",
+    "email": "grec@cin.ufpe.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "multiagent",
+    "subagents",
+    "tmux",
+    "dashboard",
+    "claude-code",
+    "workflow",
+    "orchestration",
+    "file-based-messaging"
+  ]
+}
